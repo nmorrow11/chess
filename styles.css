@@ -1,0 +1,101 @@
+.white {
+	width : 100px;
+	height : 100px;
+	background : white;
+	display : inline-block;
+}
+.black {
+	width : 100px;
+	height : 100px;
+	background : gray;
+	display : inline-block;
+}
+#container{
+	display: inline-block;
+	border: 1px solid black;
+
+}
+.whitePawn{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/wP.png');
+	z-index: 1;
+}
+.blackPawn{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/bP.png');
+	z-index: 1;
+}
+.whiteRook{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/wR.png');
+	z-index: 1;
+}
+.blackRook{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/bR.png');
+	z-index: 1;
+}
+.whiteKnight{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/wN.png');
+	z-index: 1;
+}
+.blackKnight{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/bN.png');
+	z-index: 1;
+}
+.whiteBishop{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/wB.png');
+	z-index: 1;
+}
+.blackBishop{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/bB.png');
+	z-index: 1;
+}
+.whiteQueen{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/wQ.png');
+	z-index: 1;
+}
+.blackQueen{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/bQ.png');
+	z-index: 1;
+}
+.whiteKing{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/wK.png');
+	z-index: 1;
+}
+.blackKing{
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+	background-image: url('./pieces/bK.png');
+	z-index: 1;
+}
